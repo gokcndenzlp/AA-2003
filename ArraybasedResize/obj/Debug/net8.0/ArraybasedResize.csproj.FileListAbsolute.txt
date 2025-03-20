@@ -1,0 +1,14 @@
+C:\Users\gokce\source\repos\ArraybasedResize\bin\Debug\net8.0\ArraybasedResize.exe
+C:\Users\gokce\source\repos\ArraybasedResize\bin\Debug\net8.0\ArraybasedResize.deps.json
+C:\Users\gokce\source\repos\ArraybasedResize\bin\Debug\net8.0\ArraybasedResize.runtimeconfig.json
+C:\Users\gokce\source\repos\ArraybasedResize\bin\Debug\net8.0\ArraybasedResize.dll
+C:\Users\gokce\source\repos\ArraybasedResize\bin\Debug\net8.0\ArraybasedResize.pdb
+C:\Users\gokce\source\repos\ArraybasedResize\obj\Debug\net8.0\ArraybasedResize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokce\source\repos\ArraybasedResize\obj\Debug\net8.0\ArraybasedResize.AssemblyInfoInputs.cache
+C:\Users\gokce\source\repos\ArraybasedResize\obj\Debug\net8.0\ArraybasedResize.AssemblyInfo.cs
+C:\Users\gokce\source\repos\ArraybasedResize\obj\Debug\net8.0\ArraybasedResize.csproj.CoreCompileInputs.cache
+C:\Users\gokce\source\repos\ArraybasedResize\obj\Debug\net8.0\ArraybasedResize.dll
+C:\Users\gokce\source\repos\ArraybasedResize\obj\Debug\net8.0\refint\ArraybasedResize.dll
+C:\Users\gokce\source\repos\ArraybasedResize\obj\Debug\net8.0\ArraybasedResize.pdb
+C:\Users\gokce\source\repos\ArraybasedResize\obj\Debug\net8.0\ArraybasedResize.genruntimeconfig.cache
+C:\Users\gokce\source\repos\ArraybasedResize\obj\Debug\net8.0\ref\ArraybasedResize.dll
